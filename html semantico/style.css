@@ -9,6 +9,7 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    height: 100vh;
 }
 
 
@@ -47,4 +48,5 @@ button{
     width: 250px;
     border-radius: 10px;
     background-color: transparent;
+    cursor: pointer;
 }
